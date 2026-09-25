@@ -32,7 +32,7 @@ const SITE = {
       title: "Interactive Background Website",
       description: "A real Next.js project featuring a real-time WebGL background that reacts to your mouse, a glassmorphism UI and scroll-driven card animations.",
       tech: ["Next.js", "React", "TypeScript", "WebGL", "Tailwind CSS"],
-      link: "http://localhost:3000",
+      link: "https://sujaldehariya.netlify.app",
       image: "assets/ib-preview.png"
     },
     {

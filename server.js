@@ -152,6 +152,6 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log("Portfolio running at  http://localhost:" + PORT);
-  require("child_process").exec("cmd /c start http://localhost:" + PORT);
+  console.log("Portfolio running at  https://the-white-repo.netlify.app" + PORT);
+  require("child_process").exec("cmd /c start https://the-white-repo.netlify.app" + PORT);
 });
